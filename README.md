@@ -1,5 +1,5 @@
 # data_cleaning.py
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Dhiraj! 👋
 ## The Data Refiner | Python & Pandas Automation Specialist
 
 I bridge the gap between chaotic raw data and powerful business insights. Whether you are a small business owner drowning in messy Excel files or a tech startup needing clean data pipelines for your MVP, I am here to help you automate the headache away.
